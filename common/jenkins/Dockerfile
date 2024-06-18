@@ -1,1 +1,1 @@
-FROM jenkins/jenkins:2.461
+FROM jenkins/jenkins:2.462

@@ -1,1 +1,1 @@
-FROM openjdk:17-jdk-oracle
+FROM openjdk:21-jdk-oracle

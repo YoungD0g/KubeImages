@@ -1,1 +1,1 @@
-FROM eclipse-temurin:8-jdk-oracle
+FROM openjdk:8-jdk-oracle

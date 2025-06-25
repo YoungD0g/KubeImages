@@ -1,1 +1,1 @@
-docker pull busybox:latest
+FROM busybox:latest

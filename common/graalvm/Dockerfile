@@ -1,1 +1,1 @@
-FROM ghcr.io/graalvm/graalvm-community:17.0.9
+FROM ghcr.io/graalvm/graalvm-community:21.0.2

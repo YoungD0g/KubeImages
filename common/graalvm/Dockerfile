@@ -1,0 +1,1 @@
+FROM ghcr.io/graalvm/graalvm-community:17.0.9

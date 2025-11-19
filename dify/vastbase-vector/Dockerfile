@@ -1,0 +1,1 @@
+FROM vastdata/vastbase-vector
